@@ -1,0 +1,27 @@
+{
+  "name": "todo",
+  "description": "Developing a MEAN app with Angular 4.0",
+  "main": "server.js",
+  "authors": [
+    "Selva Kumar"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular 4",
+    "MEAN"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "version": "0.1.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
